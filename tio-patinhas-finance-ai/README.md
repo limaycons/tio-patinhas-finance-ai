@@ -188,3 +188,25 @@ flowchart TD
     E --> F[Processamento LLM]
     F --> G[Validação Anti-Alucinação]
     G --> H[Raio-X + Diagnóstico + Missão 30 Dias]
+
+    tio-patinhas-finance-ai/
+├── 📄 README.md
+│
+├── 📁 data/
+│   ├── 📄 perfil_usuario.json          # Dados do usuário, renda e metas
+│   ├── 📄 cofres_e_investimentos.json  # Catálogo de cofres/produtos de investimento
+│   ├── 📄 extrato_transacoes.csv       # Extrato com classificação de receitas e gastos
+│   └── 📄 historico_consultas.json     # Histórico de conversas e orientações passadas
+│
+├── 📁 docs/
+│   ├── 📄 01-documentacao-agente.md    # Persona, tom de voz e regras de segurança
+│   ├── 📄 02-base-conhecimento.md      # Descrição e integração da base de dados
+│   ├── 📄 03-prompts.md                # System prompt e exemplos de cenários
+│   ├── 📄 04-metricas.md               # Critérios de teste, qualidade e segurança
+│   └── 📄 05-pitch.md                  # Roteiro do vídeo de apresentação (3 min)
+│
+└── 📁 src/
+    ├── 📄 app.py                       # Interface principal web em Streamlit
+    ├── 📄 agente.py                    # Lógica de cálculo 50/30/20 e integração LLM
+    ├── 📄 config.py                    # Configuração de caminhos e chaves de API
+    └── 📄 requirements.txt             # Dependências da aplicação Python
