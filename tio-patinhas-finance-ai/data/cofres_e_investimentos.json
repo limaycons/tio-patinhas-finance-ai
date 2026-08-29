@@ -1,0 +1,42 @@
+[
+  {
+    "nome": "Cofre de Liquidez Rápida (Tesouro Selic)",
+    "categoria": "renda_fixa",
+    "risco": "muito_baixo",
+    "rentabilidade": "100% da Taxa Selic",
+    "aporte_minimo": 30.00,
+    "indicado_para": "Guardar a reserva de emergência sem risco de perder nenhuma moeda e com resgate imediato."
+  },
+  {
+    "nome": "Cofre Forte diário (CDB Liquidez Diária 102%)",
+    "categoria": "renda_fixa",
+    "risco": "baixo",
+    "rentabilidade": "102% do CDI",
+    "aporte_minimo": 100.00,
+    "indicado_para": "Fazer as sobras do orçamento renderem mais que a poupança tradicional todos os dias."
+  },
+  {
+    "nome": "Cofre Blindado sem Impostos (LCI / LCA)",
+    "categoria": "renda_fixa",
+    "risco": "baixo",
+    "rentabilidade": "95% do CDI (Isento de IR)",
+    "aporte_minimo": 1000.00,
+    "indicado_para": "Quem pode deixar as moedas trancadas por 90 dias sem pagar 1 centavo de Imposto de Renda ao Leão."
+  },
+  {
+    "nome": "Cofre de Crescimento Moderado (Fundo Multimercado)",
+    "categoria": "fundo",
+    "risco": "medio",
+    "rentabilidade": "CDI + 2% ao ano",
+    "aporte_minimo": 500.00,
+    "indicado_para": "Para quem já tem a reserva pronta e quer arriscar um tiquinho a mais para fazer o patrimônio crescer."
+  },
+  {
+    "nome": "Cofre de Risco e Oportunidades (Fundo de Ações)",
+    "categoria": "fundo",
+    "risco": "alto",
+    "rentabilidade": "Variável",
+    "aporte_minimo": 100.00,
+    "indicado_para": "Virar sócio de grandes empresas no longo prazo (apenas para quem tem estômago e reserva blindada)."
+  }
+]

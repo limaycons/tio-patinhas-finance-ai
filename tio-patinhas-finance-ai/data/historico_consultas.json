@@ -1,0 +1,14 @@
+[
+  {
+    "data": "2026-07-15",
+    "usuario": "João Silva",
+    "pergunta": "Tio Patinhas, como completo minha reserva mais rápido?",
+    "resposta_agente": "Analisando seu cofre! Faltam R$ 5.000 para a meta de R$ 15.000. Se reduzirmos os R$ 450 de restaurante e delivery pela metade, guardamos mais moedas todo mês!"
+  },
+  {
+    "data": "2026-08-01",
+    "usuario": "João Silva",
+    "pergunta": "Onde devo colocar o dinheiro da minha reserva de emergência?",
+    "resposta_agente": "Nada de deixar moedas paradas na conta corrente! Use o 'Cofre de Liquidez Rápida' (Tesouro Selic) ou 'Cofre Forte Diário' (CDB 102%). Risco baixo e liquidez imediata!"
+  }
+]

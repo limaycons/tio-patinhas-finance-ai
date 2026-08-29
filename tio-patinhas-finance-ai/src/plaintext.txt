@@ -1,0 +1,18 @@
+📁 tio-patinhas-finance-ai/
+├── 📁 data/
+│   ├── 📄 perfil_usuario.json
+│   ├── 📄 cofres_e_investimentos.json
+│   ├── 📄 extrato_transacoes.csv
+│   └── 📄 historico_consultas.json
+├── 📁 docs/
+│   ├── 📄 01-documentacao-agente.md
+│   ├── 📄 02-base-conhecimento.md
+│   ├── 📄 03-prompts.md
+│   ├── 📄 04-metricas.md
+│   └── 📄 05-pitch.md
+├── 📁 src/
+│   ├── 📄 app.py
+│   ├── 📄 agente.py
+│   ├── 📄 config.py
+│   └── 📄 requirements.txt
+└── 📄 README.md
